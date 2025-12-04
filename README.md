@@ -1,5 +1,12 @@
 # first-html-project-based-on-word-guessing
 word guessing game by using css javascript
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Guessing Game</title>
+
 <style>
     body {
         font-family: "Segoe UI", Arial, sans-serif;
